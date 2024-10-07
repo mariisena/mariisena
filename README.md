@@ -25,7 +25,7 @@ Sou estudante de Ciência da Computação e já formada em Farmácia, esse semes
 
 **Contato:**
 
-* LinkedIn: [https://www.linkedin.com/in/mariana-rodrigues-sena-952637b0/]
+
 <!--
 **mariisena/mariisena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
