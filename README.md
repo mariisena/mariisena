@@ -11,13 +11,11 @@ Sou estudante de Ciência da Computação e já formada em Farmácia, esse semes
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
   
-* **Frameworks:** -
-* **Ferramentas:** aprendendo a usar o Git.
-
-**Projetos:**
-
-* **Site de Indicações:** Site criado na ImersãoDev do Alura com Google Gemini para compartilhar meus conhecimentos sobre desenvolvimento web.
-* **App de To-Do:** futuramente estarei desenvolvendo um.
+<div>
+<a href="https://github.com/mariisena">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&layout=compact&langs_count=7&theme=cobalt"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mariisena&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
 
 **Interesses:**
 
