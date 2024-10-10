@@ -7,7 +7,10 @@ Sou estudante de Ciência da Computação e já formada em Farmácia, esse semes
 
 **Habilidades:**
 
-* **Linguagens:** aprendendo Python, Java, HTML, CSS, JavaScript.
+* **Learning programming languages**:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+  
 * **Frameworks:** -
 * **Ferramentas:** aprendendo a usar o Git.
 
