@@ -5,17 +5,25 @@
 
 Sou estudante de Ciência da Computação e já formada em Farmácia, esse semestre estou iniciando a minha nova jornada em programação.
 
-**Habilidades:**
+# *Habilidades:*
 
+# *Hard Skills*:
 * **Learning programming languages**:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
-  
+
 <div>
 <a href="https://github.com/mariisena">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&layout=compact&langs_count=7&theme=cobalt"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mariisena&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&layout=compact&theme=radical"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=mariisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
+
+# *Soft Skills*
+* Facilidade em se ajustar a novas situações e tecnologias
+* Agir de forma honesta e responsável
+* Proatividade
+* Capacidade de aprender rapidamente
+
 
 **Interesses:**
 
