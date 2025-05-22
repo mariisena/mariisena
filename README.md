@@ -8,7 +8,7 @@ Sou estudante de Ciência da Computação e já formada em Farmácia, esse semes
 ### *Habilidades:*
 
 ### *Hard Skills*:
-* **Learning programming languages**:
+* **Learning programming languages**: <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 <div>
@@ -27,10 +27,9 @@ Sou estudante de Ciência da Computação e já formada em Farmácia, esse semes
 
 **Interesses:**
 
-* Desenvolvimento Web      🔹
-* Inteligência Artificial  🔹
-* UI UX design             🔹
-* Desenvolvimento de jogos 🔹
+* Desenvolvimento Web
+* Inteligência Artificial
+* UI UX design
 
 **Contato:**
 
