@@ -12,12 +12,11 @@ Sou estudante de Ciência da Computação e já formada em Farmácia, esse semes
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 <div>
-<a href="https://github.com/mariisena">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&layout=compact&theme=radical"/>
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=mariisena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/mariisena">
+    <img src="https://github-readme-stats.vercel.app/api?username=mariisena&theme=radical&show_icons=true" alt="Mariana Sena's GitHub stats" height="200em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&theme=radical&show_icons=true&layout=compact" alt="Top Langs" height="200em" />
 </div>
-
-
+    
 # *Soft Skills*
 * Facilidade em se ajustar a novas situações e tecnologias
 * Agir de forma honesta e responsável
