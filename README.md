@@ -1,49 +1,48 @@
-## Hi there 👋
-## Mariana Sena
+## Olá, Mundo! Eu sou a Mariana Sena. 👋
 
-**Sobre mim:**
+### ✨ Sobre mim
+- 🎓 Estudante de Ciência da Computação em transição de carreira.
+- 💻 Foco em Inteligência Artificial, mas também gosto muito de UI/UX Design e Cybersegurança.
+- 🎬 Também sou criadora de conteúdo sobre tecnologia, estudos e cultura geek.
 
-Sou estudante de Ciência da Computação e já formada em Farmácia, esse semestre estou iniciando a minha nova jornada em programação.
+### 🚀 Stack Atual & Ferramentas
 
-### *Habilidades:*
+| Foco Principal | Explorando | Noções Básicas | Ferramentas |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://skillicons.dev/icons?i=python) | ![CS](https://skillicons.dev/icons?i=cs) | ![JavaScript](https://skillicons.dev/icons?i=html,css) | ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma)
 
-### *Hard Skills*:
-* **Learning programming languages**: <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cs)](https://skillicons.dev)
+---
+
+### 💡 Projetos e Estudos Atuais
+
+- 🚀 Projetos acadêmicos em **C# e Desenvolvimento de Sistemas** 
+- **🤖 Trilha de estudos pessoal em Inteligência Artificial e Machine Learning**: Meu progresso e anotações estarão em repositórios dedicados.
+- **Portfólio Prático:** Desenvolvendo pequenos projetos em Python e em IA para aplicar o que aprendo.
+- **Criadora de Conteúdo:** Traduzindo o "tecniquês" para um público curioso em tech, além de compartilhar a vida real de uma estudante de programação.
+
+---
+
+### 📊 Estatísticas
 
 <div>
   <a href="https://github.com/mariisena">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariisena&theme=radical&show_icons=true" alt="Mariana Sena's GitHub stats" height="200em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&theme=radical&show_icons=true&layout=compact" alt="Top Langs" height="200em" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mariisena&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" height="180em" />
+  </a>
 </div>
-    
-# *Soft Skills*
-* Facilidade em se ajustar a novas situações e tecnologias
-* Agir de forma honesta e responsável
-* Proatividade
-* Capacidade de aprender rapidamente
 
+---
 
-**Interesses:**
+### ✨ Um pouco mais sobre mim
 
-* Desenvolvimento Web
-* Inteligência Artificial
-* UI UX design
+- 🌏 Também estou na jornada de aprender idiomas: **Japonês (N5)** e **Inglês (B1)**.
+- 🐶 Mãe de pets.
 
-**Contato:**
+---
 
+### 🌐 Onde me encontrar:
 
-<!--
-**mariisena/mariisena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianarsena/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maarianasena/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@maarianasena)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marianasenaa)
