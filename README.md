@@ -1,6 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7D6FF7&background=000000&center=true&width=800&height=100&lines=Oi%2C+eu+sou+a+Mariana+(Mari)+%F0%9F%91%BE;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;IA+%26+Ciberseguran%C3%A7a)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7D6FF7&height=120&section=header)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7D6FF7&center=true&width=800&height=100&lines=Oi%2C+eu+sou+a+Mariana+(Mari)+%F0%9F%91%BE;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;IA+%26+Ciberseguran%C3%A7a;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 </div>
 
@@ -47,6 +50,16 @@ Sou estudante de **Ciência da Computação** no CEUB (4º semestre), com forma�
 
 </div>
 
+
+
+---
+
+## 🏆 status
+
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-em%20progresso-7D6FF7?style=for-the-badge)
+![ISC2](https://img.shields.io/badge/CC%20ISC%C2%B2-em%20andamento-000000?style=for-the-badge)
+![Focus](https://img.shields.io/badge/foco-IA%20%2B%20Security-7D6FF7?style=for-the-badge)
+
 ---
 
 ## 🔭 Projetos em Destaque
@@ -73,3 +86,9 @@ Sou estudante de **Ciência da Computação** no CEUB (4º semestre), com forma�
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianarsena/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maarianasena/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@maarianasena) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@marianasenaa)
+
+<div align="center"> 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7D6FF7&height=100&section=footer)
+
+</div>
