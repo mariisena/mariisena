@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 3 * * *" # Run every day at 03:00
+  # Permite executar manualmente
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token do GitHub (necessário)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Configurações básicas
+          user: ${{ github.repository_owner }}
+          template: classic
+          config_timezone: America/Sao_Paulo
+          
+          # Plugins que você quer incluir
+          plugin_languages: yes
+          plugin_languages_ignored: html,css
+          plugin_languages_limit: 8
+          
+          plugin_lines: yes
+          
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          
+          # Salvar como artifact
+          filename: metrics.svg
