@@ -87,6 +87,8 @@ Sou estudante de **Ciência da Computação** no CEUB (4º semestre), com forma�
    </a>
 </div>
 
+<img src="https://github.com/mariisena/mariisena/blob/main/metrics.svg?raw=true" width="100%" />
+
 ---
 
 ## 📫 Como me encontrar
@@ -96,6 +98,10 @@ Sou estudante de **Ciência da Computação** no CEUB (4º semestre), com forma�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianarsena/) [![CurrículoLattes](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes%20(CNPq)-E4405F?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/4102856978888752) 
 
 </div>
+
+
+
+
 
 <div align="center"> 
 
