@@ -4,7 +4,7 @@
 
 <img src="./assets/svg/header.svg" width="100%" alt="Mariana Sena — IA, Dados, Cibersegurança" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=C4BEEC&center=true&vCenter=true&width=640&lines=Oii,+eu+sou+a+Mari!+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+CEUB+%C2%B7+5%C2%BA+semestre;IA+%2B+Dados+%2B+Ciberseguran%C3%A7a;ca%C3%A7ando+golpes+digitais+com+um+caf%C3%A9+na+m%C3%A3o+%E2%98%95" alt="Texto digitando" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=C4BEEC&center=true&vCenter=true&width=640&lines=Oii,+eu+sou+a+Mari!+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+CEUB+%C2%B7+5%C2%BA+semestre;IA+%2B+Dados+%2B+Ciberseguran%C3%A7a;ca%C3%A7ando+golpes+digitais+com+um+caf%C3%A9+na+m%C3%A3o+%E2%98%95" alt="Texto digitando" /><br>
 
 <img src="https://komarev.com/ghpvc/?username=mariisena&label=visitas&color=6F00B0&style=for-the-badge" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/mariisena?label=seguidores&color=6F00B0&style=for-the-badge" alt="Seguidores" />
@@ -74,9 +74,9 @@
 <!-- 07 — RELATÓRIO DE ATIVIDADE -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+07+%E2%80%94+RELAT%C3%93RIO+DE+ATIVIDADE" alt="// 07 — RELATÓRIO DE ATIVIDADE" />
 
+<!-- Gerado diariamente por .github/workflows/metrics.yml (estatísticas, linguagens e conquistas) -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mariisena&show_icons=true&locale=pt-br&hide_title=true&bg_color=161826&title_color=9184D9&text_color=E9E9ED&icon_color=9184D9&border_color=2a2648" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&layout=compact&locale=pt-br&bg_color=161826&title_color=9184D9&text_color=E9E9ED&border_color=2a2648" alt="Linguagens mais usadas" />
+  <img src="./metrics.svg" alt="Estatísticas do GitHub, linguagens mais usadas e conquistas" />
 </p>
 
 <!-- Gerado diariamente por .github/workflows/streak-stats.yml (cores definidas lá) -->
