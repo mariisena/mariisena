@@ -1,33 +1,41 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 3 * * *" # Run every day at 03:00
+    - cron: "0 3 * * *" # todo dia às 03:00 UTC
   # Permite executar manualmente
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # necessário para commitar o metrics.svg no repositório
+
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token do GitHub (necessário)
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
+          # Token PESSOAL (o GITHUB_TOKEN padrão não tem acesso aos dados do perfil
+          # e causa o erro "Resource not accessible by integration").
+          # Crie em Settings → Developer settings → Personal access tokens (classic)
+          # e salve no repositório como secret METRICS_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Quem faz o commit do arquivo gerado (o token padrão já basta para isso)
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
           # Configurações básicas
           user: ${{ github.repository_owner }}
           template: classic
           config_timezone: America/Sao_Paulo
-          
-          # Plugins que você quer incluir
+
+          # Plugins
           plugin_languages: yes
           plugin_languages_ignored: html,css
           plugin_languages_limit: 8
-          
+
           plugin_lines: yes
-          
+
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          
-          # Salvar como artifact
+
+          # Arquivo gerado e commitado na raiz do repositório
           filename: metrics.svg
