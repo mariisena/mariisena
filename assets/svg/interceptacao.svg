@@ -1,0 +1,107 @@
+<svg width="800" height="240" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img"
+                        aria-label="SMS interceptado: pacote retido na alfândega, taxa de R$ 12,90 em 24h, link correios-rastreio-br.com/taxa">
+<style>.al-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;}.al-sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;}@keyframes al-drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(120px,30px)}}@keyframes al-drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(-140px,-20px)}}@keyframes al-livep{0%,100%{opacity:.3}50%{opacity:1}}@keyframes al-slide{from{opacity:0;transform:translateX(-30px)}to{opacity:1;transform:none}}@keyframes al-sweep{from{transform:translateX(0)}to{transform:translateX(460px)}}@keyframes al-q{0%,100%{opacity:1;transform:none}46%{opacity:1}48%{opacity:.2;transform:translateX(3px)}50%{opacity:1;transform:translateX(-2px)}52%{transform:none}}@keyframes al-prog{0%{transform:scaleX(0)}70%,100%{transform:scaleX(1)}}@keyframes al-dots{0%,20%{opacity:.2}50%{opacity:1}80%,100%{opacity:.2}}@keyframes al-up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}.al-au1{animation:al-drift1 14s ease-in-out infinite;}.al-au2{animation:al-drift2 18s ease-in-out infinite;}.al-live{animation:al-livep 1.6s ease-in-out infinite;}.al-slide{animation:al-slide .7s .2s cubic-bezier(.2,.8,.2,1) both;}.al-sweep{animation:al-sweep 2.4s ease-in-out infinite;}.al-q{animation:al-q 2.5s infinite;}.al-prog{transform-box:fill-box;transform-origin:left;animation:al-prog 2.5s ease-in-out infinite;}.al-d{animation:al-dots 1.2s infinite;}.al-hint{animation:al-up .6s 1.2s ease-out both;}</style>
+<defs>
+<!-- Borda com brilho que percorre a moldura -->
+<linearGradient id="al-bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0"
+spreadMethod="reflect">
+<stop offset="0" stop-color="#9184D9" stop-opacity=".15" />
+<stop offset=".5" stop-color="#C4BEEC" stop-opacity=".95" />
+<stop offset="1" stop-color="#9184D9" stop-opacity=".15" />
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0"
+to="1600 0" dur="8s" repeatCount="indefinite" />
+</linearGradient>
+<filter id="al-blur" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="40" />
+</filter>
+<clipPath id="al-fc">
+<rect width="800" height="240" rx="14" />
+</clipPath>
+<pattern id="al-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+<path d="M26 0H0V26" fill="none" stroke="#9184D9" stroke-opacity=".07" />
+</pattern>
+<!-- Recorte do balão do SMS (mesmas medidas do retângulo do balão) -->
+<clipPath id="al-bub">
+<rect x="32" y="62" width="420" height="132" rx="14" />
+</clipPath>
+<!-- Faixa de varredura -->
+<linearGradient id="al-sw" x1="0" x2="1">
+<stop offset="0" stop-color="#9184D9" stop-opacity="0" />
+<stop offset=".5" stop-color="#9184D9" stop-opacity=".35" />
+<stop offset="1" stop-color="#9184D9" stop-opacity="0" />
+</linearGradient>
+</defs>
+
+<!-- ===== Fundo: cor, auroras, grade e barra de título ===== -->
+<g clip-path="url(#al-fc)">
+<rect width="800" height="240" fill="#1a1c2b" />
+<g filter="url(#al-blur)" opacity=".6">
+<ellipse class="al-au1" cx="160" cy="192" rx="160" ry="70" fill="#9184D9"
+fill-opacity=".3" />
+<ellipse class="al-au2" cx="640" cy="60" rx="180" ry="80" fill="#5a4f9e"
+fill-opacity=".45" />
+</g>
+<rect y="35" width="800" height="205" fill="url(#al-grid)" />
+<rect width="800" height="34" fill="#161826" fill-opacity=".75" />
+<rect y="34" width="800" height="1" fill="#9184D9" fill-opacity=".22" />
+</g>
+
+<!-- Moldura com gradiente animado -->
+<rect x=".5" y=".5" width="799" height="239" rx="14" fill="none" stroke="url(#al-bd)"
+stroke-width="1.2" />
+
+<!-- Barra de título: bolinhas, título e LIVE -->
+<g fill="#4a4c63">
+<circle cx="20" cy="17" r="4.5" />
+<circle cx="35" cy="17" r="4.5" />
+<circle cx="50" cy="17" r="4.5" />
+</g>
+<text class="al-mono" x="68" y="21" font-size="11" letter-spacing="1.5" fill="#9A9CB0">MARI.EXE
+<tspan fill="#9184D9">//</tspan> INTERCEPTAÇÃO</text>
+<g class="al-mono" font-size="10" letter-spacing="1.5">
+<circle class="al-live" cx="738" cy="17" r="3.5" fill="#9184D9" />
+<text x="748" y="21" fill="#C4BEEC">LIVE</text>
+</g>
+
+<!-- Cantoneiras inferiores -->
+<g fill="none" stroke="#9184D9" stroke-width="2" stroke-linecap="round" stroke-opacity=".8">
+<path d="M10 214v16h16" />
+<path d="M790 214v16h-16" />
+</g>
+
+<!-- ===== Balão do SMS (entra deslizando) ===== -->
+<g class="al-slide">
+<rect x="32" y="62" width="420" height="132" rx="14" fill="#232532" stroke="#9184D9"
+stroke-opacity=".45" />
+<text class="al-mono" x="52" y="88" font-size="11" fill="#9A9CB0">SMS · número desconhecido
+· agora</text>
+<text class="al-sans" x="52" y="118" font-size="15" fill="#E9E9ED">Seu pacote está retido na
+alfândega.</text>
+<text class="al-sans" x="52" y="142" font-size="15" fill="#E9E9ED">Pague a taxa de R$ 12,90
+em até 24h:</text>
+<text class="al-mono" x="52" y="170" font-size="14" fill="#C4BEEC"
+text-decoration="underline">correios-rastreio-br.com/taxa</text>
+<!-- Varredura passando por cima do balão -->
+<g clip-path="url(#al-bub)">
+<rect class="al-sweep" x="0" y="62" width="60" height="132" fill="url(#al-sw)" />
+</g>
+</g>
+
+<!-- ===== Análise de risco ===== -->
+<text class="al-mono" x="500" y="84" font-size="11" letter-spacing="2" fill="#9184D9">ANÁLISE DE
+RISCO</text>
+<g class="al-sans" font-size="30" font-weight="500">
+<text x="500" y="130" fill="#E9E9ED">RISCO:</text>
+<text class="al-q" x="612" y="130" fill="#C4BEEC">???</text>
+</g>
+<!-- Barra de progresso (trilho + preenchimento animado) -->
+<rect x="500" y="148" width="268" height="6" rx="3" fill="#2a2c3c" />
+<rect class="al-prog" x="500" y="148" width="268" height="6" rx="3" fill="#9184D9" />
+<text class="al-mono" x="500" y="174" font-size="11" fill="#9A9CB0">analisando<tspan
+class="al-d">.</tspan>
+<tspan class="al-d" style="animation-delay:.2s">.</tspan>
+<tspan class="al-d" style="animation-delay:.4s">.</tspan>
+</text>
+<text class="al-sans al-hint" x="500" y="206" font-size="14" fill="#C4BEEC">a decisão é sua,
+agente 👇</text>
+</svg>

@@ -1,0 +1,190 @@
+<svg width="800" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img"
+                        aria-label="Mariana Sena — IA, Dados, Cibersegurança">
+<style>.hd-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;}.hd-sans{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;}@keyframes hd-drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(120px,30px)}}@keyframes hd-drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(-140px,-20px)}}@keyframes hd-livep{0%,100%{opacity:.3}50%{opacity:1}}@keyframes hd-up{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}@keyframes hd-tmp{0%,100%{opacity:0}1%,99%{opacity:1}}@keyframes hd-blink{50%{opacity:0}}@keyframes hd-scan{0%{transform:translateY(-80px)}70%,100%{transform:translateY(300px)}}@keyframes hd-spin{to{transform:rotate(360deg)}}@keyframes hd-rspin{to{transform:rotate(-360deg)}}@keyframes hd-breathe{0%,100%{opacity:.55;transform:scale(.92)}50%{opacity:1;transform:scale(1.06)}}@keyframes hd-trace{from{stroke-dashoffset:220}to{stroke-dashoffset:0}}@keyframes hd-pulse{0%,100%{opacity:.3}50%{opacity:1}}@keyframes hd-g1{0%,90%,100%{opacity:0;transform:none}91%{opacity:.9;transform:translate(-4px,0);clip-path:inset(10% 0 55% 0)}93%{opacity:.9;transform:translate(3px,0);clip-path:inset(60% 0 10% 0)}95%{opacity:0}}@keyframes hd-g2{0%,90%,100%{opacity:0;transform:none}92%{opacity:.9;transform:translate(4px,0);clip-path:inset(40% 0 30% 0)}94%{opacity:.9;transform:translate(-3px,0);clip-path:inset(0 0 70% 0)}96%{opacity:0}}@keyframes hd-fall{0%{transform:translateY(-30px);opacity:0}20%,80%{opacity:.55}100%{transform:translateY(310px);opacity:0}}@keyframes hd-w1{to{transform:translateX(-200px)}}@keyframes hd-w2{to{transform:translateX(-260px)}}.hd-au1{animation:hd-drift1 14s ease-in-out infinite;}.hd-au2{animation:hd-drift2 18s ease-in-out infinite;}.hd-live{animation:hd-livep 1.6s ease-in-out infinite;}.hd-b1{animation:hd-up .4s .2s ease-out both;}.hd-b2{animation:hd-up .4s .6s ease-out both;}.hd-b3{animation:hd-up .4s 1s ease-out both;}.hd-t1{animation:hd-tmp .3s 1.4s both;}.hd-t2{animation:hd-tmp .3s 1.7s both;}.hd-t3{animation:hd-tmp .3s 2s both;}.hd-fin{animation:hd-up .35s 2.3s ease-out both;}.hd-gw{animation:hd-up .35s 2.3s both;}.hd-gl1{animation:hd-g1 5s 3s infinite;}.hd-gl2{animation:hd-g2 5s 3s infinite;}.hd-sub{animation:hd-up .5s 2.6s ease-out both;}.hd-chips{animation:hd-up .5s 2.9s ease-out both;}.hd-cur{animation:hd-blink 1s steps(1) infinite;}.hd-scan{animation:hd-scan 5s ease-in-out infinite;}.hd-r1{transform-origin:650px 165px;animation:hd-spin 18s linear infinite;}.hd-r2{transform-origin:650px 165px;animation:hd-rspin 10s linear infinite;}.hd-r3{transform-origin:650px 165px;animation:hd-spin 6s linear infinite;}.hd-gl{transform-origin:650px 165px;animation:hd-breathe 3s ease-in-out infinite;}.hd-tr{stroke-dasharray:18 202;animation:hd-trace 2.4s linear infinite;}.hd-dot{animation:hd-pulse 1.6s ease-in-out infinite;}.hd-bit{animation:hd-fall linear infinite;}.hd-wv1{animation:hd-w1 6s linear infinite;}.hd-wv2{animation:hd-w2 9s linear infinite;}</style>
+<defs>
+<!-- Borda com brilho que percorre a moldura -->
+<linearGradient id="hd-bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0"
+spreadMethod="reflect">
+<stop offset="0" stop-color="#9184D9" stop-opacity=".15" />
+<stop offset=".5" stop-color="#C4BEEC" stop-opacity=".95" />
+<stop offset="1" stop-color="#9184D9" stop-opacity=".15" />
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0"
+to="1600 0" dur="8s" repeatCount="indefinite" />
+</linearGradient>
+<filter id="hd-blur" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="40" />
+</filter>
+<clipPath id="hd-fc">
+<rect width="800" height="300" rx="14" />
+</clipPath>
+<pattern id="hd-grid" width="26" height="26" patternUnits="userSpaceOnUse">
+<path d="M26 0H0V26" fill="none" stroke="#9184D9" stroke-opacity=".07" />
+</pattern>
+<radialGradient id="hd-glow" cx=".5" cy=".5" r=".5">
+<stop offset="0" stop-color="#9184D9" stop-opacity=".45" />
+<stop offset="1" stop-color="#9184D9" stop-opacity="0" />
+</radialGradient>
+<linearGradient id="hd-scan-grad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#9184D9" stop-opacity="0" />
+<stop offset=".9" stop-color="#9184D9" stop-opacity=".12" />
+<stop offset="1" stop-color="#C4BEEC" stop-opacity=".5" />
+</linearGradient>
+</defs>
+
+<!-- ===== Fundo: cor, auroras, grade e barra de título ===== -->
+<g clip-path="url(#hd-fc)">
+<rect width="800" height="300" fill="#1a1c2b" />
+<g filter="url(#hd-blur)" opacity=".6">
+<ellipse class="hd-au1" cx="160" cy="240" rx="160" ry="70" fill="#9184D9"
+fill-opacity=".3" />
+<ellipse class="hd-au2" cx="640" cy="75" rx="180" ry="80" fill="#5a4f9e"
+fill-opacity=".45" />
+</g>
+<rect y="35" width="800" height="265" fill="url(#hd-grid)" />
+<rect width="800" height="34" fill="#161826" fill-opacity=".75" />
+<rect y="34" width="800" height="1" fill="#9184D9" fill-opacity=".22" />
+</g>
+
+<!-- Moldura com gradiente animado -->
+<rect x=".5" y=".5" width="799" height="299" rx="14" fill="none" stroke="url(#hd-bd)"
+stroke-width="1.2" />
+
+<!-- Barra de título: bolinhas, nome e LIVE -->
+<g fill="#4a4c63">
+<circle cx="20" cy="17" r="4.5" />
+<circle cx="35" cy="17" r="4.5" />
+<circle cx="50" cy="17" r="4.5" />
+</g>
+<text class="hd-mono" x="68" y="21" font-size="11" letter-spacing="1.5" fill="#9A9CB0">MARI.EXE
+<tspan fill="#9184D9">//</tspan> BOOT
+</text>
+<g class="hd-mono" font-size="10" letter-spacing="1.5">
+<circle class="hd-live" cx="738" cy="17" r="3.5" fill="#9184D9" />
+<text x="748" y="21" fill="#C4BEEC">LIVE</text>
+</g>
+
+<!-- Cantoneiras inferiores -->
+<g fill="none" stroke="#9184D9" stroke-width="2" stroke-linecap="round" stroke-opacity=".8">
+<path d="M10 274v16h16" />
+<path d="M790 274v16h-16" />
+</g>
+
+<g clip-path="url(#hd-fc)">
+<!-- Bits caindo (x = coluna, duration/delay = ritmo) -->
+<g class="hd-mono" font-size="11" fill="#9184D9">
+<text class="hd-bit" x="470" y="0" style="animation-duration:6s">1</text>
+<text class="hd-bit" x="500" y="0"
+style="animation-duration:8s;animation-delay:1.5s">0</text>
+<text class="hd-bit" x="780" y="0"
+style="animation-duration:5s;animation-delay:.7s">1</text>
+<text class="hd-bit" x="760" y="0"
+style="animation-duration:7s;animation-delay:2.4s">0</text>
+<text class="hd-bit" x="530" y="0"
+style="animation-duration:9s;animation-delay:3s">1</text>
+<text class="hd-bit" x="440" y="0"
+style="animation-duration:6.5s;animation-delay:4s">0</text>
+</g>
+
+<!-- ===== HUD (centro em 650,165) ===== -->
+<circle class="hd-gl" cx="650" cy="165" r="120" fill="url(#hd-glow)" />
+
+<!-- Linhas de circuito (base) -->
+<g fill="none" stroke="#9184D9" stroke-opacity=".25">
+<path d="M560 165H470L450 185H420" />
+<path d="M650 77V35" />
+<path d="M740 165H800" />
+<path d="M586 101L540 55H480" />
+<path d="M714 229L760 275H800" />
+</g>
+<!-- Pulsos percorrendo os circuitos -->
+<g fill="none" stroke="#C4BEEC" stroke-width="2" stroke-linecap="round">
+<path class="hd-tr" d="M560 165H470L450 185H420" />
+<path class="hd-tr" d="M650 77V35" style="animation-delay:.6s" />
+<path class="hd-tr" d="M740 165H800" style="animation-delay:1.8s" />
+<path class="hd-tr" d="M586 101L540 55H480" style="animation-delay:.9s" />
+<path class="hd-tr" d="M714 229L760 275H800" style="animation-delay:1.5s" />
+</g>
+
+<!-- Anéis girando -->
+<g fill="none" stroke="#9184D9">
+<circle class="hd-r1" cx="650" cy="165" r="88" stroke-opacity=".5"
+stroke-dasharray="2 8" />
+<g class="hd-r2">
+<circle cx="650" cy="165" r="70" stroke-opacity=".7"
+stroke-dasharray="60 30 10 30" />
+<circle cx="720" cy="165" r="4" fill="#C4BEEC" stroke="none" />
+</g>
+<g class="hd-r3">
+<circle cx="650" cy="165" r="54" stroke-opacity=".9" stroke-dasharray="120 220" />
+<circle cx="650" cy="111" r="3" fill="#E9E9ED" stroke="none" />
+</g>
+</g>
+
+<!-- Hexágono central + iniciais -->
+<path d="M650 127L683 146V184L650 203L617 184V146Z" fill="#1e1c36" stroke="#9184D9"
+stroke-width="1.5" />
+<text class="hd-sans" x="650" y="174" font-size="24" font-weight="500" fill="#E9E9ED"
+text-anchor="middle">MS</text>
+
+<!-- Ondas da base -->
+<path class="hd-wv2"
+d="M0 276 Q65 269 130 276 T260 276 T390 276 T520 276 T650 276 T780 276 T910 276 T1040 276 T1170 276 T1300 276 T1430 276 V300 H0 Z"
+fill="#9184D9" fill-opacity=".14" />
+<path class="hd-wv1"
+d="M0 284 Q50 275 100 284 T200 284 T300 284 T400 284 T500 284 T600 284 T700 284 T800 284 T900 284 T1000 284 T1100 284 T1200 284 T1300 284 V300 H0 Z"
+fill="#9184D9" fill-opacity=".2" />
+<path class="hd-wv1"
+d="M0 284 Q50 275 100 284 T200 284 T300 284 T400 284 T500 284 T600 284 T700 284 T800 284 T900 284 T1000 284 T1100 284 T1200 284 T1300 284"
+fill="none" stroke="#C4BEEC" stroke-opacity=".5" />
+
+<!-- Linha de scan vertical -->
+<rect class="hd-scan" y="0" width="800" height="80" fill="url(#hd-scan-grad)" />
+</g>
+
+<!-- ===== Log de boot ===== -->
+<g class="hd-mono" font-size="12">
+<text class="hd-b1" x="36" y="70" fill="#9A9CB0">
+<tspan fill="#9184D9">[ OK ]</tspan> carregando módulo de IA
+</text>
+<text class="hd-b2" x="36" y="88" fill="#9A9CB0">
+<tspan fill="#9184D9">[ OK ]</tspan> conectando ao Café com Ciber
+</text>
+<text class="hd-b3" x="36" y="106" fill="#9A9CB0">
+<tspan fill="#9184D9">[ OK ]</tspan> iniciando detecção de ameaças
+</text>
+</g>
+
+<!-- ===== Nome: "decodificação" + glitch ===== -->
+<g class="hd-sans" font-size="48" font-weight="500">
+<text class="hd-t1" x="34" y="168" fill="#9184D9">M#r!@n4 S3_a</text>
+<text class="hd-t2" x="34" y="168" fill="#C4BEEC">Mar1a#a S&amp;na</text>
+<text class="hd-t3" x="34" y="168" fill="#E9E9ED">Mariana S#na</text>
+<g class="hd-gw">
+<text class="hd-gl1" x="34" y="168" fill="#9184D9">Mariana Sena</text>
+<text class="hd-gl2" x="34" y="168" fill="#C4BEEC">Mariana Sena</text>
+</g>
+<text class="hd-fin" x="34" y="168" fill="#E9E9ED">Mariana Sena</text>
+</g>
+
+<!-- Subtítulo com cursor piscando -->
+<text class="hd-mono hd-sub" x="36" y="200" font-size="15" fill="#C4BEEC">&gt; acesso concedido
+· bem-vinda, agente<tspan class="hd-cur">_</tspan></text>
+
+<!-- ===== Chips (ajuste width do rect + x do círculo/texto ao trocar o rótulo) ===== -->
+<g class="hd-chips hd-mono" font-size="11" fill="#C4BEEC">
+<rect x="36" y="222" width="56" height="26" rx="13" fill="#161826" fill-opacity=".7"
+stroke="#9184D9" stroke-opacity=".6" />
+<circle class="hd-dot" cx="51" cy="235" r="3" fill="#9184D9" />
+<text x="60" y="239">IA</text>
+
+<rect x="100" y="222" width="84" height="26" rx="13" fill="#161826" fill-opacity=".7"
+stroke="#9184D9" stroke-opacity=".6" />
+<circle class="hd-dot" cx="115" cy="235" r="3" fill="#9184D9" style="animation-delay:.4s" />
+<text x="124" y="239">DADOS</text>
+
+<rect x="192" y="222" width="144" height="26" rx="13" fill="#161826" fill-opacity=".7"
+stroke="#9184D9" stroke-opacity=".6" />
+<circle class="hd-dot" cx="207" cy="235" r="3" fill="#9184D9" style="animation-delay:.8s" />
+<text x="216" y="239">CIBERSEGURANÇA</text>
+</g>
+</svg>

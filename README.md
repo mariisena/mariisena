@@ -1,110 +1,109 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=7D6FF7&height=120&section=header)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7D6FF7&center=true&width=800&height=100&lines=Oi%2C+eu+sou+a+Mariana+(Mari)+%F0%9F%91%BE;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;IA+%26+Ciberseguran%C3%A7a;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-
-</div>
-
----
-
-## Sobre mim
- 
-Sou estudante de **Ciência da Computação** no CEUB (4º semestre), com formação anterior em **Farmácia** pela UCB. 
-
-- 💖 Sou apaixonada por tecnologia e inovação, e o meu foco atual é na **intersecção entre a Inteligência Artificial e  Cibersegurança 🤖🔐**.
-- 🔬 Membro e Líder da frente de IA, Fraudes Digitais e Ameaças Emergentes · Liga Acadêmica de Cibersegurança Café com Ciber – CEUB
-- 📚 Estudando para as certificações **Google Cybersecurity** e **CC ISC²**
-- 🌸 Aprendo japonês nas horas vagas (N5 — pausado, mas não esquecido)
-- 🗽| Inglês intermediário
-
-> *"Em algum lugar, algo incrível está esperando para ser descoberto."* — Carl Sagan
-
----
-
-## 🚀 Stack & Ferramentas
-
-<div style="display: flex; gap: 1rem; align-content: center; align-items: center; text-align: center; text-transform: uppercase; padding: 0.5rem; border: solid 1px #000000">
-  <div>
-
-  **Linguagens**
-
-  [![Linguagens de Programação](https://skillicons.dev/icons?i=python,cs)](https://skillicons.dev)
-
-  </div>
-
-  <div>
-   
-  **Dados**
-   
-  [![Banco de Dados](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-   
-  </div>
-  <div>
-
-  **Front-end**
-
-   [![FrontEnd](https://skillicons.dev/icons?i=html,css,sass,js,nodejs)](https://skillicons.dev)
-
-  </div>
-  <div>
-
-  **Ferramentas**
-
-   [![Ferramentas](https://skillicons.dev/icons?i=github,git,vscode,figma,docker)](https://skillicons.dev)
-
-  </div>
-
-</div>
-
-
-
----
-
-## 🏆 status
-
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-em%20progresso-7D6FF7?style=for-the-badge) 
-![ISC2](https://img.shields.io/badge/CC%20ISC%C2%B2-em%20andamento-000000?style=for-the-badge) 
-![Focus](https://img.shields.io/badge/foco-IA%20%26%20Dados%20%26%20Ciberseguran%C3%A7a-7D6FF7?style=for-the-badge)
-
-
----
-
-## 🔭 Projetos em Destaque
-
-- 🌍 **[MultiversoTech](https://github.com/multiversotech):** *(Em desenvolvimento)* Idealizadora e líder deste projeto open-source no GitHub.
-- 🔐 **Projeto de AI Security:** *(Em desenvolvimento)* Iniciando a criação de uma ferramenta de cibersegurança potencializada por IA, voltada para pequenas e médias empresas.
-- ☕ **Liga Acadêmica Café com Ciber:** Membro da liga acadêmica e fui co-organizadora da 1ª edição (Dez/2025), onde elaborei e conduzi uma apresentação sobre o uso de Inteligência Artificial no cibercrime. Criei a landing page da liga https://cafe-com-ciber.github.io/ . [Currículo Lattes](http://dgp.cnpq.br/dgp/espelhogrupo/8279307977110331)
-
----
-
-### 📊 Estatísticas
+<!-- Os componentes animados ficam em assets/svg/ (cada .svg traz suas próprias animações no <style>). -->
 
 <div align="center">
-   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mariisena&theme=tokyonight-duo&locale=pt_BR&timezone=GMT-3&short_numbers=true&mode=weekly" alt="GitHub Streak" />
-   </a>
-</div>
 
-<img src="https://github.com/mariisena/mariisena/blob/main/metrics.svg?raw=true" width="100%" />
+<img src="./assets/svg/header.svg" width="100%" alt="Mariana Sena — IA, Dados, Cibersegurança" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=C4BEEC&center=true&vCenter=true&width=640&lines=Oii,+eu+sou+a+Mari!+%F0%9F%91%8B;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+CEUB+%C2%B7+5%C2%BA+semestre;IA+%2B+Dados+%2B+Ciberseguran%C3%A7a;ca%C3%A7ando+golpes+digitais+com+um+caf%C3%A9+na+m%C3%A3o+%E2%98%95" alt="Texto digitando" />
 
-## 📫 Como me encontrar
+<img src="https://komarev.com/ghpvc/?username=mariisena&label=visitas&color=6F00B0&style=for-the-badge" alt="Visitas" />
+<img src="https://img.shields.io/github/followers/mariisena?label=seguidores&color=6F00B0&style=for-the-badge" alt="Seguidores" />
 
-<div align="center"> 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianarsena/) [![CurrículoLattes](https://img.shields.io/badge/Curr%C3%ADculo%20Lattes%20(CNPq)-E4405F?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/4102856978888752) 
+<img src="./assets/divisor.svg" width="100%" alt="" />
 
 </div>
 
+<!-- 01 — PERFIL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+01+%E2%80%94+PERFIL+DA+AGENTE" alt="// 01 — PERFIL DA AGENTE" />
 
+<img src="./assets/svg/perfil.svg" width="100%" alt="Perfil da agente — Mariana (@mariisena), estudante de Ciência da Computação no CEUB, 5º semestre, líder de IA, Fraudes Digitais e Ameaças Emergentes na Liga Café com Ciber" />
 
+<img src="./assets/divisor.svg" width="100%" alt="" />
 
+<!-- 02 — STATUS DA MISSÃO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+02+%E2%80%94+STATUS+DA+MISS%C3%83O" alt="// 02 — STATUS DA MISSÃO" />
 
-<div align="center"> 
+<img src="./assets/svg/status.svg" width="100%" alt="Status da missão — graduação (5/8 semestres), liderança no Café com Ciber e iniciação científica em detecção de ameaças com IA" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7D6FF7&height=100&section=footer)
+<img src="./assets/divisor.svg" width="100%" alt="" />
 
-</div>
+<!-- 03 — LABORATÓRIO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+03+%E2%80%94+LABORAT%C3%93RIO" alt="// 03 — LABORATÓRIO" />
+
+<img src="./assets/svg/laboratorio.svg" width="100%" alt="Iniciação científica em andamento — Detecção de Ameaças Cibernéticas baseada em IA: Análise Comportamental e Preditiva" />
+
+<img src="./assets/divisor.svg" width="100%" alt="" />
+
+<!-- 04 — ARSENAL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+04+%E2%80%94+ARSENAL" alt="// 04 — ARSENAL" />
+
+<img src="./assets/svg/arsenal.svg" width="100%" alt="Arsenal — Python, HTML5, CSS, MySQL, Git, GitHub, Docker e Claude Code" />
+
+<img src="./assets/divisor.svg" width="100%" alt="" />
+
+<!-- 05 — MAPA DAS MISSÕES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&width=560&height=34&lines=%2F%2F+05+%E2%80%94+MAPA+DAS+MISS%C3%95ES" alt="// 05 — MAPA DAS MISSÕES" />
+
+<img src="./assets/svg/missoes.svg" width="100%" alt="Mapa da missão — 1º ao 4º semestre concluídos, 5º semestre em andamento, 6º ao 8º a seguir" />
+
+<img src="./assets/divisor.svg" width="100%" alt="" />
+
+<!-- 06 — INTERCEPTAÇÃO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+06+%E2%80%94+INTERCEPTA%C3%87%C3%83O+%E2%80%94+%C3%89+GOLPE+OU+N%C3%83O%3F" alt="// 06 — INTERCEPTAÇÃO — É GOLPE OU NÃO?" />
+
+<img src="./assets/svg/interceptacao.svg" width="100%" alt="SMS interceptado: pacote retido na alfândega, taxa de R$ 12,90 em 24h, link correios-rastreio-br.com/taxa" />
+
+<details>
+<summary><b>🔍 Ver o veredito da análise</b></summary>
+
+<br />
+
+**RISCO: ALTO. É golpe.** 🚨
+
+- **Domínio falso:** `correios-rastreio-br.com` não é o site oficial dos Correios (`correios.com.br`).
+- **Urgência artificial:** “em até 24h” serve para você agir sem pensar.
+- **Valor baixo de propósito:** R$ 12,90 parece inofensivo, mas o objetivo é capturar os dados do seu cartão.
+- **Canal suspeito:** SMS de número desconhecido com link de pagamento.
+
+> Na dúvida, não clique: acesse o site oficial digitando o endereço você mesma(o).
+
+</details>
+
+<img src="./assets/divisor.svg" width="100%" alt="" />
+
+<!-- 07 — RELATÓRIO DE ATIVIDADE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+07+%E2%80%94+RELAT%C3%93RIO+DE+ATIVIDADE" alt="// 07 — RELATÓRIO DE ATIVIDADE" />
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mariisena&show_icons=true&locale=pt-br&hide_title=true&bg_color=161826&title_color=9184D9&text_color=E9E9ED&icon_color=9184D9&border_color=2a2648" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariisena&layout=compact&locale=pt-br&bg_color=161826&title_color=9184D9&text_color=E9E9ED&border_color=2a2648" alt="Linguagens mais usadas" />
+</p>
+
+<!-- Gerado diariamente por .github/workflows/streak-stats.yml (cores definidas lá) -->
+<p align="center">
+  <img src="./profile/streak.svg" alt="Sequência de contribuições" />
+</p>
+
+<!-- 🐍 Gerada por .github/workflows/snake.yml (rode uma vez em Actions → "Gerar cobrinha") -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/mariisena/mariisena/output/snake.svg" alt="Cobrinha comendo as contribuições" />
+</p>
+
+<img src="./assets/divisor.svg" width="100%" alt="" />
+
+<!-- 08 — CANAL SEGURO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=100000&color=9184D9&vCenter=true&repeat=false&width=560&height=34&lines=%2F%2F+08+%E2%80%94+CANAL+SEGURO" alt="// 08 — CANAL SEGURO" />
+
+<img src="./assets/svg/canal.svg" width="100%" alt="Canal seguro entre você e Mari — conexão criptografada ponta a ponta" />
+
+<p align="center">
+  Me chama pra falar de IA, golpes digitais e ameaças emergentes, ou só pra trocar ideia sobre a faculdade.
+</p>
+
+<!-- Contatos: TROQUE SEU-USUARIO e SEU-EMAIL pelos seus dados -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/marianarsena/"><img src="https://img.shields.io/badge/LinkedIn-161826?style=for-the-badge&logo=linkedin&logoColor=9184D9&labelColor=161826&color=2a2648" alt="LinkedIn" /></a>
+  <a href="mailto:marianasena@sempreceub.com"><img src="https://img.shields.io/badge/E--mail-161826?style=for-the-badge&logo=gmail&logoColor=9184D9&labelColor=161826&color=2a2648" alt="E-mail" /></a>
+</p>
+
+<img src="./assets/svg/rodape.svg" width="100%" alt="Obrigada pela visita · volte sempre" />

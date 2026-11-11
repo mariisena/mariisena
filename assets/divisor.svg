@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+<defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="m"><rect width="800" height="40" fill="url(#f)"/></mask></defs>
+<style>@keyframes a{to{transform:translateX(-160px)}}@keyframes b{to{transform:translateX(-220px)}}.a{animation:a 4s linear infinite}.b{animation:b 6s linear infinite}</style>
+<g mask="url(#m)" fill="none"><path class="a" d="M0 20 Q40 13 80 20 T160 20 T240 20 T320 20 T400 20 T480 20 T560 20 T640 20 T720 20 T800 20 T880 20 T960 20 T1040 20" stroke="#9184D9" stroke-width="1.5"/><path class="b" d="M0 20 Q55 15 110 20 T220 20 T330 20 T440 20 T550 20 T660 20 T770 20 T880 20 T990 20 T1100 20" stroke="#C4BEEC" stroke-opacity=".55"/></g>
+</svg>
