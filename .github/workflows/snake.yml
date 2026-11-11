@@ -1,0 +1,32 @@
+name: Gerar cobrinha
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todo dia às 03:00 UTC (00:00 em Brasília)
+  workflow_dispatch: # permite rodar manualmente em Actions
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # necessário para publicar na branch "output"
+
+    steps:
+      # Gera o SVG da cobrinha a partir do gráfico de contribuições.
+      # color_dots = 5 cores: célula vazia → mais contribuições.
+      - name: Gerar snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#9184D9&color_dots=#232532,#2a2648,#5d5294,#9184D9,#C4BEEC
+
+      # Publica a pasta dist/ na branch "output" (separada da main,
+      # para não encher o histórico de commits).
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
