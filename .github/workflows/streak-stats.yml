@@ -17,10 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      # Cores iguais às do portfólio (mesmos parâmetros da URL do streak-stats.demolab.com)
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          options: >-
+            user=${{ github.repository_owner }}&locale=pt_BR&background=161826&border=2a2648&stroke=9184D9&ring=9184D9&fire=C4BEEC&currStreakNum=E9E9ED&sideNums=E9E9ED&currStreakLabel=9184D9&sideLabels=9A9CB0&dates=9A9CB0
           path: profile/streak.svg
 
       - name: Commit streak stats
